@@ -4,7 +4,6 @@ authors:
 - Niladri S. Chatterji
 - Ashwin Tulapurkar
 - Bhaskaran Muralidharan
-- Michael I. Jordan
 date: "2014-12-08"
 #doi: "2018-07-18"
 
