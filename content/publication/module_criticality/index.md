@@ -32,7 +32,7 @@ summary: arXiv pre-print; to appear at the Workshops on ML with Guarantees & on 
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: https://arxiv.org/abs/1912.00528 
+url_pdf: https://arxiv.org/abs/1912.00528 
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
