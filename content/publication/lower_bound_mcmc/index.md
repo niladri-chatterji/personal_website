@@ -3,7 +3,7 @@ title: "Oracle Lower Bounds for Stochastic Gradient Markov Chain Monte Carlo Met
 authors:
 - Niladri S. Chatterji
 - Peter L. Bartlett
-- Phil M. Long
+- Philip M. Long
 date: "2019-11-11"
 #doi: "2018-07-18"
 

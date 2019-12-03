@@ -23,7 +23,7 @@ publication_short: ""
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis #sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. #Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Working Paper; to appear at the Workshops on ML with Guarantees & on Science meets Engineering of Deep Learning at NeurIPS 2019.
+summary: arXiv pre-print; to appear at the Workshops on ML with Guarantees & on Science meets Engineering of Deep Learning at NeurIPS 2019.
 
 #tags:
 #- Source Themes
@@ -32,7 +32,7 @@ summary: Working Paper; to appear at the Workshops on ML with Guarantees & on Sc
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 
+# url_pdf: https://arxiv.org/abs/1912.00528 
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
