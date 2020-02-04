@@ -4,7 +4,7 @@ authors:
 - Niladri S. Chatterji
 - Peter L. Bartlett
 - Philip M. Long
-date: "2019-11-11"
+date: "2020-02-01"
 #doi: "2018-07-18"
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ publication_short: ""
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis #sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. #Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Working Paper
+summary: arXiv pre-print
 
 #tags:
 #- Source Themes
@@ -32,7 +32,7 @@ summary: Working Paper
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 
+url_pdf: https://arxiv.org/abs/2002.00291
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
