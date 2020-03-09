@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Understanding Deep Neural Networks
-- Online Learning
-- Markov Chain Monte Carlo
+- Statistical learning theory
+- Online learning
+- Markov chain Monte Carlo
 
 
 education:
