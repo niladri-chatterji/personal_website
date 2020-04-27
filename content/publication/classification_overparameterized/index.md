@@ -28,7 +28,7 @@ summary: arXiv pre-print
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2002.00291
+# url_pdf: https://arxiv.org/abs/2002.00291
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
