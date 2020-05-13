@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-I am a fifth year PhD student at UC Berkeley. I am associated with the Berkeley Artificial Intelligence Research group (BAIR). My research interests lie at the intersection of Theoretical Statistics and Machine Learning. Some areas I am interested in and have worked on in the past include, understanding the generalization ability of overparameterized classifiers, Monte Carlo methods, optimization guarantees for structured non-convex problems and Online learning with partial information (bandit feedback). I am fortunate to be advised by <a href="https://www.stat.berkeley.edu/~bartlett/" target="_blank">Peter Bartlett</a> and Michael DeWeese.
+I am a fifth year PhD student at UC Berkeley. I am associated with the Berkeley Artificial Intelligence Research group (BAIR). My research interests lie at the intersection of Theoretical Statistics and Machine Learning. Some areas I am interested in and have worked on in the past include, understanding the generalization ability of overparameterized classifiers, Monte Carlo methods, optimization guarantees for structured non-convex problems and online learning with partial information (bandit feedback). I am fortunate to be advised by <a href="https://www.stat.berkeley.edu/~bartlett/" target="_blank">Peter Bartlett</a> and Michael DeWeese.
 
-I graduated from Indian Institute of Technology Bombay with a dual degree B.Tech+M.Tech in Engineering Physics.
+I graduated from Indian Institute of Technology Bombay in 2015 with a dual degree B.Tech+M.Tech in Engineering Physics.
