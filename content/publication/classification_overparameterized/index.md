@@ -1,8 +1,8 @@
 ---
 title: "Finite-sample analysis of interpolating linear classifiers in the overparameterized regime"
 authors:
-- Niladri S. Chatterji
-- Philip M. Long
+- Niladri S. Chatterji*
+- Philip M. Long*
 date: "2020-04-25"
 
 # Schedule page publish date (NOT publication's date).
