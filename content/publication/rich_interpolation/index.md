@@ -1,9 +1,10 @@
 ---
-title: "Finite-sample analysis of interpolating linear classifiers in the overparameterized regime"
+title: "When does gradient descent with logistic loss find interpolating two-layer networks?"
 authors:
 - Niladri S. Chatterji
 - Philip M. Long
-date: "2020-04-25"
+- Peter L. Bartlett
+date: "2020-12-04"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
