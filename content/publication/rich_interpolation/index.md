@@ -29,7 +29,7 @@ summary: arXiv pre-print
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2004.12019
+url_pdf: https://arxiv.org/abs/2012.02409
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
