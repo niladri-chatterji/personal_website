@@ -26,7 +26,7 @@ publication_short: ""
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis #sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. #Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: arXiv pre-print
+summary: Bernoulli
 
 #tags:
 #- Source Themes
@@ -35,7 +35,7 @@ summary: arXiv pre-print
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/1902.00996
+url_pdf: https://projecteuclid.org/journals/bernoulli/volume-27/issue-3/Is-there-an-analog-of-Nesterov-acceleration-for-gradient-based/10.3150/20-BEJ1297.short
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
