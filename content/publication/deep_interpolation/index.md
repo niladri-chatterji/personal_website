@@ -20,7 +20,7 @@ publication: ""
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: arXiv pre-print
+summary: COLT 2021
 
 #tags:
 #- Source Themes
