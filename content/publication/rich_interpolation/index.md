@@ -20,7 +20,7 @@ publication: ""
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: arXiv pre-print
+summary: Journal of Machine Learning Research
 
 #tags:
 #- Source Themes
