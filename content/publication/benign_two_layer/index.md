@@ -1,7 +1,7 @@
 ---
 title: "The interplay between implicit bias and benign overfitting in two-layer linear networks"
 authors:
-- Niladri S. Chatterji*
+- Niladri S. Chatterji
 - Philip M. Long
 - Peter L. Bartlett
 date: "2021-08-26"
