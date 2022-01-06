@@ -33,7 +33,7 @@ summary: arXiv pre-print
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2110.02914
+url_pdf: https://arxiv.org/abs/2112.12986
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
