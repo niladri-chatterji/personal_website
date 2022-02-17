@@ -1,10 +1,10 @@
 ---
-title: "Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data"
+title: "Random Feature Amplification: Feature Learning and Generalization in Neural Networks"
 authors:
 - Spencer Frei
 - Niladri S. Chatterji
 - Peter L. Bartlett
-date: "2022-02-11"
+date: "2022-02-15"
 #doi: "2021-05-31"
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ summary: arXiv pre-print
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2202.05928
+url_pdf: https://arxiv.org/abs/2202.07626
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
