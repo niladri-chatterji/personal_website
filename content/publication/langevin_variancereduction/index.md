@@ -1,5 +1,5 @@
 ---
-title: "On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo"
+title: "On the theory of variance reduction for stochastic gradient Monte Carlo"
 authors:
 - Niladri S. Chatterji
 - Nicolas Flammarion

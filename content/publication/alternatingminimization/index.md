@@ -1,5 +1,5 @@
 ---
-title: "Alternating minimization for dictionary learning: Local Convergence Guarantees"
+title: "Alternating minimization for dictionary learning: Local convergence guarantees"
 authors:
 - Niladri S. Chatterji
 - Peter L. Bartlett

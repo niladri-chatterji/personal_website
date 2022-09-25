@@ -1,5 +1,5 @@
 ---
-title: "Oracle Lower Bounds for Stochastic Gradient Markov Chain Monte Carlo Methods"
+title: "Oracle lower bounds for stochastic gradient Markov chain Monte Carlo methods"
 authors:
 - Niladri S. Chatterji
 - Peter L. Bartlett

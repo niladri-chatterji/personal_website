@@ -1,5 +1,5 @@
 ---
-title: "Is There an Analog of Nesterov Acceleration for MCMC?"
+title: "Is there an analog of Nesterov acceleration for MCMC?"
 authors:
 - Yi-An Ma
 - Niladri S. Chatterji

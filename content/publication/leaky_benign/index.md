@@ -1,5 +1,5 @@
 ---
-title: "Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data"
+title: "Benign overfitting without linearity: Neural network classifiers trained by gradient descent for noisy linear data"
 authors:
 - Spencer Frei
 - Niladri S. Chatterji

@@ -1,5 +1,5 @@
 ---
-title: "Enhancement of Spin-transfer torque switching via resonant tunneling"
+title: "Enhancement of spin-transfer torque switching via resonant tunneling"
 authors:
 - Niladri S. Chatterji
 - Ashwin Tulapurkar

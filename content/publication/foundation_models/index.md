@@ -1,5 +1,5 @@
 ---
-title: "On the Opportunities and Risks of Foundation Models"
+title: "On the opportunities and risks of foundation models"
 authors:
 - Bommasani et al.
 date: "2021-08-16"

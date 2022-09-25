@@ -1,5 +1,5 @@
 ---
-title: "Random Feature Amplification: Feature Learning and Generalization in Neural Networks"
+title: "Random feature amplification: Feature learning and generalization in neural networks"
 authors:
 - Spencer Frei
 - Niladri S. Chatterji

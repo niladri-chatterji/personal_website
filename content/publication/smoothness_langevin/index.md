@@ -1,5 +1,5 @@
 ---
-title: "Langevin Monte Carlo without Smoothness"
+title: "Langevin Monte Carlo without smoothness"
 authors:
 - Niladri S. Chatterji*
 - Jelena Diakonikolas*

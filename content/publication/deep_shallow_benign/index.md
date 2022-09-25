@@ -1,10 +1,9 @@
 ---
-title: "Undersampling is a minimax optimal robustness intervention in nonparametric classification"
+title: "Deep linear networks can benignly overfit when shallow ones do"
 authors:
-- Niladri S. Chatterji*
-- Saminul Haque*
-- Tatsunori Hashimoto
-date: "2022-05-26"
+- Niladri S. Chatterji
+- Philip M. Long
+date: "2022-09-24"
 #doi: "2021-05-31"
 
 # Schedule page publish date (NOT publication's date).
@@ -24,13 +23,15 @@ publication_short: ""
 
 # Summary. An optional shortened abstract.
 summary: arXiv pre-print
+
 #tags:
 #- Source Themes
 #featured: false
+
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2205.13094
+url_pdf: https://arxiv.org/abs/2209.09315
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''

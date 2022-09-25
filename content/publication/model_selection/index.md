@@ -1,5 +1,5 @@
 ---
-title: "OSOM: A Simultaneously Optimal Algorithm for Multi-Armed and Linear Contextual Bandits"
+title: "OSOM: A simultaneously optimal algorithm for multi-armed and linear contextual bandits"
 authors:
 - Niladri S. Chatterji
 - Vidya Muthukumar
