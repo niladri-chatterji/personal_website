@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Statistical Learning Theory
 - Generalization of Interpolating Models
-- Online Learning
-- Markov chain Monte Carlo methods
+- Optimization of Overparameterized Neural Networks
+- Robustness to Distribution Shift
+- Optimal Model Selection for Neural Network Models
 
 
 education:
