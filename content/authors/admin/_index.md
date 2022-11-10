@@ -66,6 +66,13 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at Stanford University. I am associated with the Stanford Artificial Intelligence Lab and am currently working with <a href="https://thashim.github.io/" target="_blank">Tatsu Hashimoto</a> and <a href="https://cs.stanford.edu/~pliang/" target="_blank">Percy Liang</a>. My research interests lie at the intersection of Machine Learning and Theoretical Statistics. Some areas I am interested in and have worked on in the past include, understanding the generalization ability of interpolating learning models, Monte Carlo methods, optimization guarantees for structured non-convex problems and online learning with partial information.
+(I am on the 2022-2023 Academic Job Market)
 
-Previously I spent six wonderful years at UC Berkeley advised by <a href="https://www.stat.berkeley.edu/~bartlett/" target="_blank">Peter Bartlett</a>. Before that I graduated from Indian Institute of Technology Bombay in 2015 with a dual degree B.Tech+M.Tech in Engineering Physics.
+I am a postdoctoral researcher at Stanford University. I am associated with the Stanford Artificial Intelligence Lab and work with <a href="https://thashim.github.io/" target="_blank">Tatsu Hashimoto</a> and <a href="https://cs.stanford.edu/~pliang/" target="_blank">Percy Liang</a>. 
+
+My research interests lie at the intersection of Machine Learning and Statistics. My current research interests center around building a theory to understand and improve neural network models. Many neural network models generalize well despite perfectly fitting noisy training data; I am interested in understanding what leads to successful generalization and optimization. I also develop techniques to make neural networks robust and think about optimal model selection for neural networks.
+
+Some areas I have worked on in the past include Markov chain Monte Carlo methods, optimization for structured non-convex problems, and online learning.
+
+
+Previously I spent six wonderful years at UC Berkeley advised by <a href="https://www.stat.berkeley.edu/~bartlett/" target="_blank">Peter Bartlett</a>. Before that, I graduated from the Indian Institute of Technology Bombay in 2015 with a dual degree B.Tech+M.Tech in Engineering Physics.
