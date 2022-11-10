@@ -24,7 +24,7 @@ interests:
 - Generalization of Interpolating Models
 - Optimization of Overparameterized Neural Networks
 - Robustness to Distribution Shift
-- Optimal Model Selection for Neural Network Models
+- Optimal Model Selection for Neural Networks
 
 
 education:
