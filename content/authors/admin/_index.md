@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-(I am on the 2022-2023 Academic Job Market)
+(I am currently on the job market!)
 
 I am a postdoctoral researcher at Stanford University. I am associated with the Stanford Artificial Intelligence Lab and work with <a href="https://thashim.github.io/" target="_blank">Tatsu Hashimoto</a> and <a href="https://cs.stanford.edu/~pliang/" target="_blank">Percy Liang</a>. 
 
