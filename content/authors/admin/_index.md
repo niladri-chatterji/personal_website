@@ -24,7 +24,7 @@ interests:
 - Generalization of Interpolating Models
 - Optimization of Overparameterized Neural Networks
 - Robustness to Distribution Shift
-- Optimal Model Selection for Neural Networks
+- Scaling Laws for Neural Networks
 
 
 education:
@@ -70,7 +70,7 @@ user_groups:
 
 I am a postdoctoral researcher at Stanford University. I am associated with the Stanford Artificial Intelligence Lab and work with <a href="https://thashim.github.io/" target="_blank">Tatsu Hashimoto</a> and <a href="https://cs.stanford.edu/~pliang/" target="_blank">Percy Liang</a>. 
 
-My research interests lie at the intersection of Machine Learning and Statistics. My current research interests center around building a theory to understand and improve neural network models. Many neural network models generalize well despite perfectly fitting noisy training data; I am interested in understanding what leads to successful generalization and optimization. I also develop techniques to make neural networks robust and think about optimal model selection for neural networks.
+My research interests lie at the intersection of Machine Learning and Statistics. My current research interests center around building a theory to understand and improve neural network models. Many neural network models generalize well despite perfectly fitting noisy training data; I am interested in understanding what leads to successful generalization and optimization. I also develop techniques to make neural networks robust and think about scaling laws for neural networks.
 
 Some areas I have worked on in the past include Markov chain Monte Carlo methods, optimization for structured non-convex problems, and online learning.
 
