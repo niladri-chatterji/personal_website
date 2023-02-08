@@ -1,5 +1,5 @@
 ---
-title: "Sharp convergence rates for Langevin dynamics in the nonconvex setting"
+title: "Convergence rates for Langevin Monte Carlo in the nonconvex setting"
 authors:
 - Xiang Cheng
 - Niladri S. Chatterji
