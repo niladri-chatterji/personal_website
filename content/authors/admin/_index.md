@@ -66,8 +66,6 @@ user_groups:
 - Visitors
 ---
 
-<b>Virtual office hours</b>:  The purpose of this office hour is to help younger students with career choices, research directions or anything else that one might need some help with. You can book them <a href="https://calendly.com/niladric/30min" target="_blank">here</a>.
-
 I am a postdoctoral researcher at Stanford University. I am associated with the Stanford Artificial Intelligence Lab and work with <a href="https://thashim.github.io/" target="_blank">Tatsu Hashimoto</a> and <a href="https://cs.stanford.edu/~pliang/" target="_blank">Percy Liang</a>. 
 
 My research interests lie at the intersection of Machine Learning and Statistics. My current research interests center around building a theory to understand and improve neural network models. Many neural network models generalize well despite perfectly fitting noisy training data; I am interested in understanding what leads to successful generalization and optimization. I also develop techniques to make neural networks robust and think about scaling laws for neural networks.
@@ -76,3 +74,5 @@ Some areas I have worked on in the past include Markov chain Monte Carlo methods
 
 
 Previously I spent six wonderful years at UC Berkeley advised by <a href="https://www.stat.berkeley.edu/~bartlett/" target="_blank">Peter Bartlett</a>. Before that, I graduated from the Indian Institute of Technology Bombay in 2015 with a dual degree B.Tech+M.Tech in Engineering Physics.
+
+<b>Virtual office hours</b>:  The purpose of this office hour is to help younger students with career choices, research directions or anything else that one might need some help with. You can book them <a href="https://calendly.com/niladric/30min" target="_blank">here</a>.
