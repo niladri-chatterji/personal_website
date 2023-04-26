@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-(I am currently on the job market!)
+<b>Virtual office hours</b>:  The purpose of this office hour is to help younger students with career choices, research directions or anything else that one might need some help with. You can book them <a href="https://calendly.com/niladric/30min" target="_blank">here</a>.
 
 I am a postdoctoral researcher at Stanford University. I am associated with the Stanford Artificial Intelligence Lab and work with <a href="https://thashim.github.io/" target="_blank">Tatsu Hashimoto</a> and <a href="https://cs.stanford.edu/~pliang/" target="_blank">Percy Liang</a>. 
 
